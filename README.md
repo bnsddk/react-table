@@ -2,3 +2,4 @@
 
 It results like this (no CSS yet):
 
+![Screenshot](screenshot-table.png)
